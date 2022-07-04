@@ -1,6 +1,6 @@
 ---
 title: GitHub Enterprise guides
-shortTitle: Руководства
+shortTitle: Руководство
 intro: 'Learn how to increase developer productivity and code quality with {% data variables.product.product_name %}.'
 allowTitleToDifferFromFilename: true
 layout: product-sublanding
